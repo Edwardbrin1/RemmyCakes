@@ -20,6 +20,7 @@ body{
     list-style: none;
     font-family: Arial, sans-serif;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 /* nav */
 .navbar {
