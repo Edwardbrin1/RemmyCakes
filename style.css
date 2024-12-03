@@ -21,6 +21,7 @@ body{
     font-family: Arial, sans-serif;
     scroll-behavior: smooth;
     overflow-x: hidden;
+    overflow-y: scroll; 
 }
 /* nav */
 .navbar {
